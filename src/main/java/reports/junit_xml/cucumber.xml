@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="2" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="2" time="0">
+<testcase classname="login website" name="login website scenario" time="0">
+<failure message="The scenario has pending or undefined step(s)"><![CDATA[Given user already on website...............................................skipped
+When title of log in page global trade......................................skipped
+Then click on seller join now...............................................undefined
+Then click on agent seller..................................................skipped
+Then enter information "omer" and "omer@gmail.com" and "dadasd" and "45545454" and "29305" and "sdad" and "sadsad" and "sdasd" and "hjkl" and "2" and "dsfd".skipped
+Then complete registration..................................................skipped
+]]></failure>
+</testcase>
+<testcase classname="login website" name="login website scenario 2" time="0">
+<failure message="The scenario has pending or undefined step(s)"><![CDATA[Given user already on website...............................................skipped
+When title of log in page global trade......................................skipped
+Then click on seller join now...............................................undefined
+Then click on agent seller..................................................skipped
+Then enter information "omer" and "lkfjsklj@gmail.com" and "sdfsd" and "1231231321" and "29305" and "gjghj" and "hfgh" and "gfhfg" and "sda" and "3" and "dfddsf".skipped
+Then complete registration..................................................skipped
+]]></failure>
+</testcase>
+</testsuite>
